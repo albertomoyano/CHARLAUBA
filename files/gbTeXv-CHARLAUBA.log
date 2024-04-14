@@ -45,6 +45,12 @@ pg 1: ! Missing number, treated as zero.
 pg 1: A number should have been here; I inserted `0'.
 pg 1: (If you can't figure out why I needed to see a number,
 pg 1: look up `weird error' in the index to The TeXbook.)
+--------------------------------------------------------------------
+From file /usr/share/texmf-dist/tex/latex/impnattypo/impnattypo.sty:
+pg 1: Inserting `homeoarchy' in `post_linebreak_filter'.
+----------------
+From file DUMMY:
+pg 1: Inserting `homoioteleuton' in `post_linebreak_filter'.
 ------------------------------------------
 From file ./files/gbTeXmeta-CHARLAUBA.tex:
 pg 1: Package hyperref Warning: Token not allowed in a PDF string (Unicode):
