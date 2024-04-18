@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx version='2005-1' xmlns='http://www.daisy.org/z3986/2005/ncx/'>
+<head>
+  <meta content='http://example.com/epub-CHARLAUBA'
+  name='dtb:uid' />
+  <meta content='3' name='dtb:depth' />
+  <meta content='0' name='dtb:totalPageCount' />
+  <meta content='0' name='dtb:maxPageNumber' />
+</head>
+<docTitle>
+  <text>III Jornada Latinoamericana de Estudios Editoriales: Por la
+  educación pública y el derecho a la enseñanza
+  universitaria</text>
+</docTitle>
+<h2></h2>
+<navMap>
+  <navPoint id='navPoint-1' playOrder='1'>
+    <navLabel>
+      <text>Portada</text>
+    </navLabel>
+    <content src='epub-CHARLAUBA.html#Q1-1-1'></content>
+  </navPoint>
+  <navPoint id='navPoint-2' playOrder='2'>
+    <navLabel>
+      <text>Frontmatter</text>
+    </navLabel>
+    <content src='epub-CHARLAUBAch1.html#x2-1000'></content>
+  </navPoint>
+  <navPoint id='navPoint-3' playOrder='3'>
+    <navLabel>
+      <text>1 MainmatterA</text>
+    </navLabel>
+    <content src='epub-CHARLAUBAch2.html#x3-20001'></content>
+    <navPoint id='navPoint-4' playOrder='4'>
+      <navLabel>
+        <text>1.1 SecciónA</text>
+      </navLabel>
+      <content src='epub-CHARLAUBAch2.html#x3-30001.1'></content>
+    </navPoint>
+    <navPoint id='navPoint-5' playOrder='5'>
+      <navLabel>
+        <text>1.2 SecciónAA</text>
+      </navLabel>
+      <content src='epub-CHARLAUBAch2.html#x3-40001.2'></content>
+    </navPoint>
+  </navPoint>
+  <navPoint id='navPoint-6' playOrder='6'>
+    <navLabel>
+      <text>2 MainmatterB</text>
+    </navLabel>
+    <content src='epub-CHARLAUBAch3.html#x4-50002'></content>
+    <navPoint id='navPoint-7' playOrder='7'>
+      <navLabel>
+        <text>2.1 SecciónB</text>
+      </navLabel>
+      <content src='epub-CHARLAUBAch3.html#x4-60002.1'></content>
+    </navPoint>
+    <navPoint id='navPoint-8' playOrder='8'>
+      <navLabel>
+        <text>2.2 SecciónBB</text>
+      </navLabel>
+      <content src='epub-CHARLAUBAch3.html#x4-70002.2'></content>
+    </navPoint>
+  </navPoint>
+  <navPoint id='navPoint-9' playOrder='9'>
+    <navLabel>
+      <text>Notas</text>
+    </navLabel>
+    <content src='epub-CHARLAUBAli1.html#x5-8000'></content>
+  </navPoint>
+  <navPoint id='navPoint-10' playOrder='10'>
+    <navLabel>
+      <text>Índice de siglas</text>
+    </navLabel>
+    <content src='epub-CHARLAUBAli2.html#x6-11000'></content>
+  </navPoint>
+  <navPoint id='navPoint-11' playOrder='11'>
+    <navLabel>
+      <text>Glosario de términos</text>
+    </navLabel>
+    <content src='epub-CHARLAUBAli3.html#x7-12000'></content>
+  </navPoint>
+  <navPoint id='navPoint-12' playOrder='12'>
+    <navLabel>
+      <text>Bibliografía</text>
+    </navLabel>
+    <content src='epub-CHARLAUBAch4.html#x8-13000'></content>
+  </navPoint>
+  <navPoint id='navPoint-13' playOrder='13'>
+    <navLabel>
+      <text>Colofón</text>
+    </navLabel>
+    <content src='epub-CHARLAUBAch5.html#x9-14000'></content>
+  </navPoint>
+</navMap>[part,appendix,chapter,likechapter,appendixsec,section,likesection,appendixsubsec,subsection,likesubsection,subsubsection,likesubsubsection]</ncx>

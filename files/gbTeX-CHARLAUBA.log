@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Arch Linux)  (format=lualatex 2024.2.23)  14 APR 2024 15:05
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Arch Linux)  (format=lualatex 2024.2.23)  17 APR 2024 19:38
  restricted system commands enabled.
 **pdf-CHARLAUBA.tex
 (./pdf-CHARLAUBA.tex
@@ -2755,16 +2755,16 @@ Package logreq Info: Writing requests to 'pdf-CHARLAUBA.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 54593 strings out of 478285
+ 54624 strings out of 478285
  156364,2373549 words of node,token memory allocated
- 127794 words of node memory still in use:
-   577 hlist, 4 vlist, 320 rule, 4 ins, 1446 disc, 245 local_par, 4 math, 2149 g
-lue, 855 kern, 530 penalty, 58 margin_kern, 9082 glyph, 5954 attribute, 303 glue
-_spec, 852 attribute_list, 36 write, 2 pdf_literal, 56 pdf_start_link, 56 pdf_en
-d_link, 8 pdf_dest, 29 pdf_action, 316 pdf_colorstack, 6 pdf_setmatrix, 6 pdf_sa
+ 129896 words of node memory still in use:
+   582 hlist, 4 vlist, 320 rule, 4 ins, 1475 disc, 247 local_par, 4 math, 2184 g
+lue, 867 kern, 536 penalty, 58 margin_kern, 9255 glyph, 6024 attribute, 305 glue
+_spec, 862 attribute_list, 38 write, 2 pdf_literal, 56 pdf_start_link, 56 pdf_en
+d_link, 8 pdf_dest, 29 pdf_action, 320 pdf_colorstack, 6 pdf_setmatrix, 6 pdf_sa
 ve, 6 pdf_restore nodes
-   avail lists: 1:8,2:293,3:44,4:18,5:106,6:2,7:1110,8:18,9:56,10:17,11:164
- 72397 multiletter control sequences out of 65536+600000
+   avail lists: 1:6,2:293,3:44,4:18,5:106,6:2,7:1110,8:19,9:56,10:16,11:164
+ 72428 multiletter control sequences out of 65536+600000
  75 fonts using 13868247 bytes
  130i,7n,124p,2269b,3137s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSerif-It
@@ -2776,7 +2776,7 @@ Regular.otf></usr/share/texmf-dist/fonts/opentype/public/libertinus-fonts/Libert
 inusSerif-Regular.otf></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi
 10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/sha
 re/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on pdf-CHARLAUBA.pdf (28 pages, 702396 bytes).
+Output written on pdf-CHARLAUBA.pdf (28 pages, 702612 bytes).
 
 PDF statistics: 308 PDF objects out of 1000 (max. 8388607)
  172 compressed objects within 2 object streams

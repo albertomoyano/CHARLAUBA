@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package unique-identifier='dcidid' version='2.0'
+xmlns='http://www.idpf.org/2007/opf'>
+  <metadata xmlns:dc='http://purl.org/dc/elements/1.1/'
+  xmlns:opf='http://www.idpf.org/2007/opf'>
+    <dc:title>III Jornada Latinoamericana de Estudios Editoriales:
+    Por la educación pública y el derecho a la enseñanza
+    universitaria</dc:title>
+    <dc:language>es-ES</dc:language>
+    <dc:identifier id='dcidid' opf:scheme='URI'>
+    http://example.com/epub-CHARLAUBA</dc:identifier>
+    <dc:creator>Alberto Moyano</dc:creator>
+    <dc:date>2024-04-18T12:24:00Z</dc:date>
+    <dc:subject>Red, Edición, Investigación</dc:subject>
+    <dc:date>2024-01</dc:date>
+    <dc:created>2000-02</dc:created>
+    <dc:modified>2001-03</dc:modified>
+    <dc:rights>Licencia MIT</dc:rights>
+    <dc:identifier id='uuid' opf:scheme='UUID'>ID del
+    documento</dc:identifier>
+    <dc:publisher>Nombre de la editorial CEHTI</dc:publisher>
+    <dc:identifier id='bookid'>0000</dc:identifier>
+    <dc:identifier id='bookid' opf:scheme='URI'>
+    https://gitlab.com/alberto.alejandro.moyano/CHARLAUBA</dc:identifier>
+    <dc:description>Non eram nescius, Brute, cum, quae summis
+    ingeniis exquisitaque doctrina philosophi Graeco sermone
+    tractavissent, ea Latinis litteris mandaremus, fore ut hic
+    noster labor in varias reprehensiones incurreret. nam
+    quibusdam, et iis quidem non admodum indoctis, totum hoc
+    displicet philosophari. quidam autem non tam id reprehendunt,
+    si remissius agatur, sed tantum studium tamque multam operam
+    ponendam in eo non arbitrantur. erunt etiam, et ii quidem
+    eruditi Graecis litteris, contemnentes Latinas, qui se dicant
+    in Graecis legendis operam malle consumere. postremo aliquos
+    futuros suspicor, qui me ad alias litteras vocent, genus hoc
+    scribendi, etsi sit elegans, personae tamen et dignitatis esse
+    negent. Contra quos omnis dicendum breviter existimo. Quamquam
+    philosophiae quidem vituperatoribus satis responsum est eo
+    libro, quo a nobis philosophia defensa et collaudata est, cum
+    esset accusata et vituperata ab Hortensio. qui liber cum et
+    tibi probatus videretur et iis, quos ego posse iudicare
+    arbitrarer, plura suscepi veritus ne movere hominum studia
+    viderer, retinere non posse. Qui autem, si maxime hoc placeat,
+    moderatius tamen id volunt fieri, difficilem quandam
+    temperantiam postulant in eo, quod semel admissum coerceri
+    reprimique non potest, ut propemodum iustioribus utamur illis,
+    qui omnino avocent a philosophia, quam his, qui rebus infinitis
+    modum constituant in reque eo meliore, quo maior sit,
+    mediocritatem desiderent. Sive enim ad sapientiam perveniri
+    potest, non paranda nobis solum ea, sed fruenda etiam
+    [sapientia] est; sive hoc difficile est, tamen nec modus est
+    ullus investigandi veri, nisi inveneris, et quaerendi
+    defatigatio turpis est, cum id, quod quaeritur, sit
+    pulcherrimum. etenim si delectamur, cum scribimus, quis est tam
+    invidus, qui ab eo nos abducat? sin laboramus, quis est, qui
+    alienae modum statuat industriae? nam ut Terentianus Chremes
+    non inhumanus, qui novum vicinum non vult 'fodere aut arare aut
+    aliquid ferre denique' -- non enim illum ab industria, sed ab
+    inliberali labore deterret --, sic isti curiosi, quos offendit
+    noster minime nobis iniucundus labor.</dc:description>
+    <dc:relation>Bitácora Argentina</dc:relation>
+    <dc:contributor opf:role='edt'>Alejandro Daniel
+    Falco</dc:contributor>
+    <dc:contributor opf:role='trl'>Traductor</dc:contributor>
+    <dc:contributor opf:role='ill'>Ilustrador</dc:contributor>
+    <dc:format>EPUB</dc:format>
+    <meta content='cover-image' name='cover' />
+  </metadata>
+  <manifest>
+    <item href='epub-CHARLAUBA.ncx' id='ncx'
+    media-type='application/x-dtbncx+xml'></item>
+    <item href='epub-CHARLAUBA.css' id='stylesheet'
+    media-type='text/css'></item>
+    <item href='epub-CHARLAUBA.html' id='file1'
+    media-type='application/xhtml+xml'></item>
+    <item href='epub-CHARLAUBAch1.html' id='file2'
+    media-type='application/xhtml+xml'></item>
+    <item href='epub-CHARLAUBAch2.html' id='file3'
+    media-type='application/xhtml+xml'></item>
+    <item href='epub-CHARLAUBAch3.html' id='file4'
+    media-type='application/xhtml+xml'></item>
+    <item href='epub-CHARLAUBAli1.html' id='file5'
+    media-type='application/xhtml+xml'></item>
+    <item href='epub-CHARLAUBAli2.html' id='file6'
+    media-type='application/xhtml+xml'></item>
+    <item href='epub-CHARLAUBAli3.html' id='file7'
+    media-type='application/xhtml+xml'></item>
+    <item href='epub-CHARLAUBAch4.html' id='file8'
+    media-type='application/xhtml+xml'></item>
+    <item href='epub-CHARLAUBAch5.html' id='file9'
+    media-type='application/xhtml+xml'></item>
+    <item href='./media/cover.png' id='cover-image'
+    media-type='image/png'></item>
+    <item href='./files/blitz-lite.css' id='filesblitz-lite_css'
+    media-type='text/css'></item>
+    <item href='./media/bn-imagen1.png' id='mediabn-imagen1_png'
+    media-type='image/png'></item>
+    <item href='epub-CHARLAUBA0x.svg' id='epub-CHARLAUBA0x_svg'
+    media-type='image/svg+xml'></item>
+  </manifest>
+  <spine toc='ncx'>
+    <itemref idref='file1'></itemref>
+    <itemref idref='file2'></itemref>
+    <itemref idref='file3'></itemref>
+    <itemref idref='file4'></itemref>
+    <itemref idref='file5'></itemref>
+    <itemref idref='file6'></itemref>
+    <itemref idref='file7'></itemref>
+    <itemref idref='file8'></itemref>
+    <itemref idref='file9'></itemref>
+  </spine>
+</package>

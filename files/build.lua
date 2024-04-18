@@ -13,4 +13,3 @@ else
   Make:htlatex {}
   Make:htlatex {}
 end
-
